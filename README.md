@@ -5,6 +5,7 @@ Say **Bazinga!** in various programming languages 😛
 
 - [x] **[Bash](Bash/bazinga.bash)**
 - [x] **[Go](Go/bazinga.go)**
+- [x] **[Java](Java/bazinga.java)**
 - [x] **[JavaScript](JavaScript/bazinga.js)**
 - [x] **[Python](Python/bazinga.py)**
 - [x] **[R](R/bazinga.r)**
