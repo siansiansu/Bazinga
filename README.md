@@ -6,3 +6,4 @@ Say **Bazinga!** in various programming languages 😛
 - [x] **Go**
 - [x] **Python**
 - [x] **R**
+- [x] **Rust**
