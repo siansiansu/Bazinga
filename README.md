@@ -7,3 +7,4 @@ Say **Bazinga!** in various programming languages 😛
 - [x] **Python**
 - [x] **R**
 - [x] **Rust**
+- [x] **Scala**
