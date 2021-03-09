@@ -2,8 +2,7 @@
 
 ![Bazinga gif](https://media.giphy.com/media/CV61LRKyQf6P6/giphy.gif)
 
-Bazinga! in all possible programming languages 😛
-
+Say **Bazinga!** in various programming languages 😛
 
 ## Languages Covered
 
